@@ -1,0 +1,4 @@
+method,rmse,mape,matches,skipped
+MCD-inlier density-weighted centers (on KMeans partitions),0.724277479928724,7.278906517998402,3000,0
+Density-weighted centers (on KMeans partitions),0.7465156337400275,7.072985178297807,3000,0
+Robust (MinCovDet) centers (on KMeans partitions),0.7695208032851478,7.609904884214163,3000,0
